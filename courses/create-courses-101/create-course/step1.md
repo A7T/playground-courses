@@ -4,7 +4,7 @@ openEuler Playground课程通过创建course-content文件来进行组织，采�
 ## 克隆示例
 
 使用下面的命令克隆示例代码：
-<code exec="git clone https://github.com/opensourceways/playground-courses.git playground-course-examples">git clone https://github.com/opensourceways/playground-courses.git playground-course-examples</code>
+<code exec="git clone https://gitee.com/opensourceway/playground-courses.git playground-course-examples">git clone https://gitee.com/opensourceway/playground-courses.git playground-course-examples</code>
 
 在`courses`目录中，创建了我们的示例课程`create-courses-101`，这个课程所对应的course-content定义在：
 `playground-course-examples/courses/create-courses-101/course-content.json` .

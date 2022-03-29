@@ -12,5 +12,5 @@
 
 如果你想在克隆远程仓库的时候，自定义本地仓库的名字，你可以通过额外的参数指定新的目录名：
 
-`git clone https://github.com/libgit2/libgit2 mylibgit`
+`git clone https://gitee.com/mirrors_libgit2/libgit2.git mylibgit`
 这会执行与上一条命令相同的操作，但目标目录名变为了 `mylibgit`。
