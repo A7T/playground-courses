@@ -13,7 +13,7 @@ git@gitee.com:openeuler/community.git
 ## 任务
 
 当前环境中有一个位于 `/home/coder/git-101/remote-project/project_1` 的远端仓库，使用
-<code exec="git remote add origin /home/coder/git-101/remote-prpject/project_1"></code>git remote add origin /home/coder/git-101/remote-prpject/project_1
+<code exec="git remote add origin /home/coder/git-101/remote-prpject/project_1">git remote add origin /home/coder/git-101/remote-prpject/project_1</code>
 命令添加这个远端仓库并命名为`origin`。
 
 ## Tips
